@@ -14,7 +14,6 @@
       <li>🖥 <strong>MERN Developer</strong> | 🌐 <strong>Open Source Contributor</strong></li>
       <li>📚 Learning about <strong>Web3</strong> and working on <strong>personal projects</strong> 🚀</li>
       <li>📫 Reach out to me at: <strong>mukundkumarofficial@gmail.com</strong></li>
-      
     </ul>
   </div>
 </div>
